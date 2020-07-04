@@ -21,7 +21,7 @@ MIT's [Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
 # EBooks
 
-[Notes for professionals (free, many languages)](https://books.goalkicker.com/)
+[Notes for professionals](https://books.goalkicker.com/) (free, many languages)
 
 
 
